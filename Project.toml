@@ -1,0 +1,4 @@
+name = "myapp"
+uuid = "c3ca9f98-6c78-459c-8639-ef2f658bf543"
+authors = ["codelrond <codelrond@protonmail.com>"]
+version = "0.1.0"
